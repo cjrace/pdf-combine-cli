@@ -1,0 +1,5 @@
+# Main folder to use for dropping in files to combine
+to-combine/
+
+# Ignore PDF files in the root of the repository
+/*.pdf
